@@ -1,51 +1,22 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Usando IA's Generativas para criar projetos práticos e rápidos
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+O projeto visa criar um pequeno vídeo para mostrar o poder e evolução das IA's generativas na atualidade.
+Todo o projeto foi desenvolvido rapidamente e sem nenhum custo.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Para geração do roteiro, foi utilizado o ChatGPT [https://chat.openai.com/share/5f4da1c1-fc5a-4852-9e3c-d425d549d254]
+Para geração de voz, avatar e geração do vídeo, foi utilizado a ferramenta VidnozAI [https://aiapp-pt.vidnoz.com/video/index.html].
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+A ideia foi criar um roteiro no ChatGPT em forma de prompt para a geração do vídeo na plataforma VidnozAI.
+O tema proposto foi a Importância da IA no nosso dia a dia.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O vídeo exemplifica muito bem como o avanço das IA's generativas está cada vez mais próximo da realidade.
+Com certeza, em um breve período de tempo teremos algumas substituições de seres humanos para a utilização de IA's.
+Segue o vídeo gerado [https://share.vidnoz.com/aishare-TlwsY6an2gcTP7TRjmXQOUus17131071883428383]
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+## 💭 Reflexão
+Com toda a certeza, será necessário o debate a nível mundial sobre a utilização de IA's, visto que o avanço está sendo exponêncial e devemos ter em breve questões éticas sobre esse assunto.
+O questionamento que fica é: Qual será o próximo passo para as IA's no nosso mundo?
